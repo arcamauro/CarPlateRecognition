@@ -1,7 +1,0 @@
-path: dataset  # dataset root dir
-
-train: images/train  # train images
-test: images/test  # test images
-
-nc: 2  # number of classes
-names: ['SINGLE', 'DOUBLE']  # class names
